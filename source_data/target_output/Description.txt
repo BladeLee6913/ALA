@@ -1,0 +1,2 @@
+This folder is used to store the results of semantic fractures segmentation 
+produced by the trained model.
